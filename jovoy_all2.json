@@ -1,0 +1,42 @@
+[
+  {
+    "id": 5,
+    "title" : "수퍼 문 오 드 퍼퓸 30ml",
+    "imgUrl" : "/img/recommend6.jpg",
+    "brand" : "[카너 바르셀로나]",
+    "price" : "93,500원",
+    "date" : 230401
+  },
+  {
+    "id": 6,
+    "title" : "아쿠아 디 스칸돌라 오 드 퍼퓸 50ml",
+    "imgUrl" : "/img/recommend7.jpg",
+    "brand" : "[퍼퓸 드 엠파이어]",
+    "price" : "151,200원",
+    "date" : 230301
+  },
+  {
+    "id": 7,
+    "title" : "르 크리 오 드 퍼퓸 50ml",
+    "imgUrl" : "/img/recommend8.jpg",
+    "brand" :"[퍼퓸 드 엠파이어]",
+    "price" : "184,500원",
+    "date" : 230901
+  },
+  { 
+    "id": 8,
+    "title" : "일렉트로 리모네이드 오 드 퍼퓸 100ml",
+    "imgUrl" : "/img/recommend9.jpg",
+    "brand" :"[르 오케스트르 퍼퓸]",
+    "price" : "256,500원",
+    "date" : 230301
+  },
+  {
+    "id": 9,
+    "title" : "바누아투 엑스뜨레 드 퍼퓸 50ml",
+    "imgUrl" : "/img/recommend10.jpg",
+    "brand" :"[소라 도라]",
+    "price" : "297,000원",
+    "date" : 230401
+  }
+]
