@@ -4,7 +4,7 @@
     "title" : "라틴 러버 오 드 퍼퓸 50ml",
     "imgUrl" : "/img/recommend5.jpg",
     "brand" :"[카너 바르셀로나]",
-    "price" : "151,300원",
+    "price" : 151300,
     "date" : 230601
   },
   {
@@ -12,7 +12,7 @@
     "title" : "수퍼 문 오 드 퍼퓸 30ml",
     "imgUrl" : "/img/recommend6.jpg",
     "brand" : "[카너 바르셀로나]",
-    "price" : "93,500원",
+    "price" : 93500,
     "date" : 230401
   },
   {
@@ -20,7 +20,7 @@
     "title" : "아쿠아 디 스칸돌라 오 드 퍼퓸 50ml",
     "imgUrl" : "/img/recommend7.jpg",
     "brand" : "[퍼퓸 드 엠파이어]",
-    "price" : "151,200원",
+    "price" : 151200,
     "date" : 230301
   },
   {
@@ -28,7 +28,7 @@
     "title" : "르 크리 오 드 퍼퓸 50ml",
     "imgUrl" : "/img/recommend8.jpg",
     "brand" :"[퍼퓸 드 엠파이어]",
-    "price" : "184,500원",
+    "price" : 184500,
     "date" : 230901
   }
   

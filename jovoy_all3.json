@@ -4,7 +4,7 @@
     "title" : "일렉트로 리모네이드 오 드 퍼퓸 100ml",
     "imgUrl" : "/img/recommend9.jpg",
     "brand" :"[르 오케스트르 퍼퓸]",
-    "price" : "256,500원",
+    "price" : 256500,
     "date" : 230301
   },
   {
@@ -12,7 +12,7 @@
     "title" : "바누아투 엑스뜨레 드 퍼퓸 50ml",
     "imgUrl" : "/img/recommend10.jpg",
     "brand" :"[소라 도라]",
-    "price" : "297,000원",
+    "price" : 297000,
     "date" : 230401
   },
   {
@@ -20,7 +20,7 @@
     "title" : "파리 투셰 피날레 오 드 퍼퓸 100ml",
     "imgUrl" : "/img/recommend11.jpg",
     "brand" :"[조보이]",
-    "price" : "212,500원",
+    "price" : 212500,
     "date" : 230501
   },
   {
@@ -28,7 +28,7 @@
     "title" : "파리 가르데 무아 오 드 퍼퓸 100ml",
     "imgUrl" : "/img/recommend12.jpg",
     "brand" :"[조보이]",
-    "price" : "212,500원",
+    "price" : 212500,
     "date" : 230501
   }
   
