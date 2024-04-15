@@ -5,7 +5,15 @@
     "imgUrl" : "/img/recommend9.jpg",
     "brand" :"[르 오케스트르 퍼퓸]",
     "price" : 256500,
-    "date" : 230301
+    "date" : 230301,
+    "titleE" : "ELECTRO LIMONADE",
+    "content" : "일몰이 펼처진 지중해 테라스에서의 칵테일 한 잔. 레몬, 클레멘타인, 이탈리안 베르가못의 신선한 에센스가 민트 카날레 그리고 칵테일 거품과 함께 추는 춤. 기분 좋은 그루브가 아침까지 이어지는 톡 쏘는 일렉트로닉 코롱의 향기 ",
+    "imgUrl1" : "/img/best01_1.jpg",
+    "imgUrl2" : "/img/best01_2.jpg",
+    "imgUrl3" : "/img/best01_3.jpg",
+    "imgUrl4" : "/img/best01_4.jpg",
+    "brandDetail" : "/img/DMPIRE2_detail.jpg",
+    "scent" : "#그린 #아로마틱"
   },
   {
     "id": 9,
@@ -13,7 +21,15 @@
     "imgUrl" : "/img/recommend10.jpg",
     "brand" :"[소라 도라]",
     "price" : 297000,
-    "date" : 230401
+    "date" : 230401,
+    "titleE" : "VANUATU",
+    "content" : "고급스런 우아함이 온 몸을 감싸는 향입니다. 바누아투에서 자란 진귀한 샌달우드를 베이스로 프로방스의 노트들과 특별한 조화를 이룹니다. 싱그러운 무화과 잎에 부드러운 샌달우드 향이 어우러져 과실 향을 부드럽게 풀어냅니다. 플로럴과 우디 향이 절묘한 합을 이뤄 신비로운 분위기를 선사합니다.",
+    "imgUrl1" : "/img/best01_1.jpg",
+    "imgUrl2" : "/img/best01_2.jpg",
+    "imgUrl3" : "/img/best01_3.jpg",
+    "imgUrl4" : "/img/best01_4.jpg",
+    "brandDetail" : "/img/sora_detail.jpg",
+    "scent" : "#우디 #스파이시"
   },
   {
     "id": 10,
@@ -21,7 +37,15 @@
     "imgUrl" : "/img/recommend11.jpg",
     "brand" :"[조보이]",
     "price" : 212500,
-    "date" : 230501
+    "date" : 230501,
+    "titleE" : "TOUCHE FINALE",
+    "content" : "마스터 피스의 완성을 알리는 마지막 브러시 터치의 순간. 만족감이 가득한 아티스트의 파이널 모먼트를 담아낸 파우더리 플로럴 계열의 향",
+    "imgUrl1" : "/img/best01_1.jpg",
+    "imgUrl2" : "/img/best01_2.jpg",
+    "imgUrl3" : "/img/best01_3.jpg",
+    "imgUrl4" : "/img/best01_4.jpg",
+    "brandDetail" : "/img/jovoy_detail.jpg",
+    "scent" : "#플로럴 #스파이시"
   },
   {
     "id": 11,
@@ -29,7 +53,15 @@
     "imgUrl" : "/img/recommend12.jpg",
     "brand" :"[조보이]",
     "price" : 212500,
-    "date" : 230501
+    "date" : 230501,
+    "titleE" : "GARDEZ-MOI",
+    "content" : "파리지엔느 소울로 무장한 우아한 팜므파탈. 그녀의 뒤로 남겨지는 화려하고 강력한 화이트 플라워의 흔적, 프레시한 우디 프루티 향은 그녀의 생동감 넘치는 도도한 발걸음을 그려냅니다.",
+    "imgUrl1" : "/img/best01_1.jpg",
+    "imgUrl2" : "/img/best01_2.jpg",
+    "imgUrl3" : "/img/best01_3.jpg",
+    "imgUrl4" : "/img/best01_4.jpg",
+    "brandDetail" : "/img/jovoy_detail.jpg",
+    "scent" : "#플로럴 #스파이시"
   }
   
 ]
