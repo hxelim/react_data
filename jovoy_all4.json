@@ -9,7 +9,11 @@
     "price" : 256500,
     "date" : 231209,
     "brandDetail" : "/img/ohtop_detail.jpg",
-    "scent" : "#아로마틱 #우디머스크"
+    "scent" : "#아로마틱 #우디머스크",
+    "imgUrl1" : "/img/best01_1.jpg",
+    "imgUrl2" : "/img/best01_2.jpg",
+    "imgUrl3" : "/img/best01_3.jpg",
+    "imgUrl4" : "/img/best01_4.jpg"
   },
   {
     "id": 13,
@@ -21,7 +25,11 @@
     "price" : 256500,
     "date" : 231202,
     "brandDetail" : "/img/ohtop_detail.jpg",
-    "scent" : "#우디 #스파이시 #아로마틱"
+    "scent" : "#우디 #스파이시 #아로마틱",
+    "imgUrl1" : "/img/best01_1.jpg",
+    "imgUrl2" : "/img/best01_2.jpg",
+    "imgUrl3" : "/img/best01_3.jpg",
+    "imgUrl4" : "/img/best01_4.jpg"
   },
   {
     "id": 14,
@@ -33,7 +41,11 @@
     "price" : 256500,
     "date" : 231203,
     "brandDetail" : "/img/ohtop_detail.jpg",
-    "scent" : "#레더리"
+    "scent" : "#레더리",
+    "imgUrl1" : "/img/best01_1.jpg",
+    "imgUrl2" : "/img/best01_2.jpg",
+    "imgUrl3" : "/img/best01_3.jpg",
+    "imgUrl4" : "/img/best01_4.jpg"
   },
   {
     "id": 15,
@@ -45,6 +57,10 @@
     "price" : 242250,
     "date" : 231201,
     "brandDetail" : "/img/ohtop_detail.jpg",
-    "scent" : "#플로럴 #시트러스"
+    "scent" : "#플로럴 #시트러스",
+    "imgUrl1" : "/img/best01_1.jpg",
+    "imgUrl2" : "/img/best01_2.jpg",
+    "imgUrl3" : "/img/best01_3.jpg",
+    "imgUrl4" : "/img/best01_4.jpg"
   }
 ]
